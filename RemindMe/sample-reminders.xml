@@ -8,7 +8,7 @@
 	<reminder title="Daily tasks">
 		<!--empty date = today-->
 		<on date="" time="10:45" subtitle="Take vitamins"/>
-		<on date="" time="13:45" subtitle="Do some streching"/>
-		<on date="" time="16:45" subtitle="Do some streching"/>
+		<on date="" time="13:45" subtitle="Do some stretching"/>
+		<on date="" time="16:45" subtitle="Do some stretching"/>
 	</reminder>
 </reminders>
