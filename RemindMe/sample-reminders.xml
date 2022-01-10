@@ -1,0 +1,14 @@
+<reminders>
+	<reminder title="Call for appointments">
+		<!-- date format = system locale-->
+		<on date="10.01.2022" time="10:15" subtitle="Call dentist"/>
+		<on date="10.01.2022" time="12:15" subtitle="Call car workshop"/>
+		<on date="15.01.2022" time="15:15" subtitle="Call lawyer"/>
+	</reminder>
+	<reminder title="Daily tasks">
+		<!--empty date = today-->
+		<on date="" time="10:45" subtitle="Take vitamins"/>
+		<on date="" time="13:45" subtitle="Do some streching"/>
+		<on date="" time="16:45" subtitle="Do some streching"/>
+	</reminder>
+</reminders>
